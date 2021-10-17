@@ -1,10 +1,13 @@
 First of all, for this tool you need
 
 - An homebrew accepted aka jailbroken PS Vita.
-- (optional; if you want to play all kind of ROMS except N64) You need to have RetroArch for Vita https://www.retroarch.com/?page=platforms 
+- (optional; if you want all kind of ROMS) You need to have RetroArch for Vita https://www.retroarch.com/?page=platforms 
 - (optional; needed if you want to play N64) Daedalus X64 0.6 or later https://vitadb.rinnegatamante.it/#/info/549
 
 The first fully automated RetroArch/Daedalus X64 2 PS Vita Bubble application, I tried to make it as easy as possible.
+
+At first I made it purely for my self, but there was pretty much time involving in making it, I decided to polish it
+some more and publish it for the public, that is what this is, I really hope you enjoy the project and the ease of it.
 
 If your ROMS on your PS Vita are located at: ux0:ROMS/NES, ux0:ROMS/SNES, ux0:ROMS/GB+GBC and so on then just make sure
 this have the same structure in _IN,  like  \_IN\ROMS\NES \_IN\ROMS\SNES \_IN\ROMS\GB+GBC
