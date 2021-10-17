@@ -43,14 +43,14 @@ Copyright (c) 2021 Jordy Polfliet
 - https://github.com/FrozenNL + http://polfliet.net
 ----------------------------------------------------------------------------------------------------------------------------------------------
 R2VB.exe
-Retro 2 Vita Bubble v1.00 x64 (October 2021) by Jordy Polfliet
+Retro 2 Vita Bubble v0.7 x64 (October 2021) by Jordy Polfliet
 Copyright (c) 2021 Jordy Polfliet
 parts used from Danijel Durakovic (use of ini class)
 - The MIT License (MIT)
 - https://github.com/FrozenNL + http://polfliet.net
 ----------------------------------------------------------------------------------------------------------------------------------------------
 R2VB_x86-Win32.exe
-Retro 2 Vita Bubble v1.00 x86 (October 2021) by Jordy Polfliet
+Retro 2 Vita Bubble v0.7 x86 (October 2021) by Jordy Polfliet
 Copyright (c) 2021 Jordy Polfliet
 parts used from Danijel Durakovic (use of ini class)
 - The MIT License (MIT)
