@@ -42,6 +42,7 @@ Method 2: Pack the ROM inside of your VPK. Press 2 in the APP to use this method
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<IMPORTANT>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
+     
 If you use method 2 (pack the ROM inside the VPK) then you have to unhide the app folder on your VITA, you can achieve
 this by starting Vitashell, connect the Vita to the PC using USB and press <select> on the VITA, now press WIN+R at the
 same time on your keyboard and type cmd, if the SD2Vita connected to E: for example, you type in the black window
@@ -50,7 +51,9 @@ attrib -S -H E:\app
 
 and that's really it, now RetroArch can see the app folder and make it possible to play directly from the packed ROMS
 
+
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<IMPORTANT>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 
 How to assign another core to an filetype: edit settings.ini and change settings as you like, it's flexible to even add
 more systems which are supported by RetroArch if you like, after adding extension to settings.ini it will automatically
