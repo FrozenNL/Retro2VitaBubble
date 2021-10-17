@@ -15,16 +15,16 @@ bg		Background
 startup		Startup Emblem
 
 First it will try to load from your actual ROM folder, for example: if your ROM file is located in 
-_IN\ROMS\SNES\ActRaiser 2 (USA).smc it will try to load:
+_IN\ROMS\SNES\HomeBrew (Unl).smc it will try to load:
 
-     _IN\ROMS\SNES\ActRaiser 2 (USA)_icon0.jpg
-     _IN\ROMS\SNES\ActRaiser 2 (USA)_icon0.png
+     _IN\ROMS\SNES\HomeBrew (Unl)_icon0.jpg
+     _IN\ROMS\SNES\HomeBrew (Unl)_icon0.png
 
-     _IN\ROMS\SNES\ActRaiser 2 (USA)_bg.jpg
-     _IN\ROMS\SNES\ActRaiser 2 (USA)_bg.png
+     _IN\ROMS\SNES\HomeBrew (Unl)_bg.jpg
+     _IN\ROMS\SNES\HomeBrew (Unl)_bg.png
 
-     _IN\ROMS\SNES\ActRaiser 2 (USA)_startup.jpg
-     _IN\ROMS\SNES\Actraiser 2 (USA)_startup.png
+     _IN\ROMS\SNES\HomeBrew (Unl)_startup.jpg
+     _IN\ROMS\SNES\HomeBrew (Unl)_startup.png
 
 If those images cannot be found, it will fall back to default images located at the app folder \assets\artwork\ it will
 try the extension folder first (gb, nes, smc etc.) if it cannot find them, it falls back to \assets\artwork\all\ folder
@@ -41,7 +41,7 @@ Method 2: Pack the ROM inside of your VPK. Press 2 in the APP to use this method
 
 If you use method 2 (pack the ROM inside the VPK) then you have to unhide the app folder on your VITA, you can achieve
 this by starting Vitashell, connect the Vita to the PC using USB and press <select> on the VITA, now press WIN+R at the
-same time on your keyboard and type cmd, if the SD2Vita connected to E: for example, you type in the black window
+same time on your keyboard (run) and type cmd, if the SD2Vita connected to E: for example, you type in the black window
 
 attrib -S -H E:\app
 
