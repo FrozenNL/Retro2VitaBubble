@@ -1,8 +1,8 @@
-First of all, for this tool you need
+First of all, for this tool you need:
 
-- An homebrew accepted aka jailbroken PS Vita.
-- (optional; if you want all kind of ROMS) You need to have RetroArch for Vita https://www.retroarch.com/?page=platforms 
-- (optional; needed if you want to play N64) Daedalus X64 0.6 or later https://vitadb.rinnegatamante.it/#/info/549
+-An homebrew accepted aka jailbroken PS Vita.
+-(optional; if you want all kind of ROMS) You need to have RetroArch for Vita https://www.retroarch.com/?page=platforms 
+-(optional; needed if you want to play N64) Daedalus X64 0.6 or later https://vitadb.rinnegatamante.it/#/info/549
 
 The first fully automated RetroArch/Daedalus X64 2 PS Vita Bubble application, I tried to make it as easy as possible.
 
