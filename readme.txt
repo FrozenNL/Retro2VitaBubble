@@ -1,4 +1,4 @@
-The first fully automated RetroArch/Daedalus 2 PS Vita Bubble application, I tried to make it as easy as possible.
+The first fully automated RetroArch/Daedalus X64 2 PS Vita Bubble application, I tried to make it as easy as possible.
 
 If your ROMS on your PS Vita are located at: ux0:ROMS/NES, ux0:ROMS/SNES, ux0:ROMS/GB+GBC and so on then just make sure
 this have the same structure in _IN,  like  \_IN\ROMS\NES \_IN\ROMS\SNES \_IN\ROMS\GB+GBC
