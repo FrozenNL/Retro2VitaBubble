@@ -49,7 +49,7 @@ If you use method 2 (pack the ROM inside the VPK) then you have to unhide the ap
 this by starting Vitashell, connect the Vita to the PC using USB and press <select> on the VITA, now press WIN+R at the
 same time on your keyboard (run) and type cmd, if the SD2Vita connected to E: for example, you type in the black window
 
-attrib -S -H E:\app
+attrib -S -H E:\app   --------------------------   this makes sure it sets it's attributes to non-system and non-hidden
 
 and that's really it, now RetroArch can see the app folder and make it possible to play directly from the packed ROMS
 
