@@ -1,8 +1,8 @@
 First of all, for this tool you need:
 
 -An homebrew accepted aka jailbroken PS Vita.
--(optional; if you want all kind of ROMS) You need to have RetroArch for Vita https://www.retroarch.com/?page=platforms 
--(optional; needed if you want to play N64) Daedalus X64 0.6 or later https://vitadb.rinnegatamante.it/#/info/549
+-(if you want many ROMS but not N64) You need to have RetroArch for Vita https://www.retroarch.com/?page=platforms 
+-(if you want N64) Daedalus X64 v0.6 or later https://vitadb.rinnegatamante.it/#/info/549
 
 The first fully automated RetroArch/Daedalus X64 2 PS Vita Bubble app (ROM2VPK), I made it as smooth as possible.
 
@@ -22,8 +22,8 @@ nes ngc ngp pce sfc sg smc smd sms st sv v64 ws wsc z64 zip (zip=neogeo, not com
 
 For some extensions (iso, chd, cue) you need to alter the ini file since they are used by multiple systems, you can't
 simply process two of those extensions at the same time, you have to alter the ini file and asign different cores for
-it and add those systems 1 by 1 in the _IN folder, create VPK, move the VPK from the _OUT folder  otherwise RetroArch do not know what to do with it
-since a wrong core is assigned to it.
+it and add those systems 1 by 1 in the _IN folder, create VPK, move the VPK from the _OUT folder  otherwise RetroArch
+do not know what to do with it since a wrong core is assigned to it. By default those extensions are disabled.
 
 You can add custom images for:
 
