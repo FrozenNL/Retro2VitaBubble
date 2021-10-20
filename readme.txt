@@ -42,16 +42,16 @@ do not know what to do with it since a wrong core is assigned to it. By default 
 
 You can add custom images for:
 
-icon0 =	Bubble Icon
-bg =      Background
+icon0   = Bubble Icon
+bg      = Background
 startup = Startup Emblem
 
 At first it will try to load from your actual ROM folder, for example: if your ROM file is located in let's say
 _IN\ROMS\SNES\HomeBrew (Unl).smc then it will try to load the images:
 
-       _IN\ROMS\SNES\HomeBrew (Unl)_icon0.jpg or _IN\ROMS\SNES\HomeBrew (Unl)_icon0.png
-          _IN\ROMS\SNES\HomeBrew (Unl)_bg.jpg or _IN\ROMS\SNES\HomeBrew (Unl)_bg.png
-     _IN\ROMS\SNES\HomeBrew (Unl)_startup.jpg or _IN\ROMS\SNES\HomeBrew (Unl)_startup.png
+          _IN\ROMS\SNES\HomeBrew (Unl)_icon0.jpg/png
+          _IN\ROMS\SNES\HomeBrew (Unl)_bg.jpg/png
+          _IN\ROMS\SNES\HomeBrew (Unl)_startup.jpg/png
 
 If the above images cannot be found, it falls back to default images from the \assets\artwork folder it'll try the 
 extension folder first (gb, nes, smc etc.) if it cannot find them, it falls back to \assets\artwork\all folder
@@ -61,8 +61,8 @@ worries here you are free to choose jpg or png extension.
 
 There are two methods of creating the VPK:
 
-Method 1: Link the VPK to your existing ROM already present on the VITA. Press 1 in the APP to use this method.
-Method 2: Pack the ROM inside of your VPK. Press 2 or 3 in the APP to use this method and read the message below.
+Method 1: link the VPK to your existing ROM already present on the VITA. Press 1 in the APP to use this method
+Method 2: pack the ROM inside of your VPK. Press 2 or 3 in the APP to use this method and read the message below
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<IMPORTANT>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
