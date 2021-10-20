@@ -46,7 +46,7 @@ _IN\ROMS\SNES\HomeBrew (Unl).smc then it will try to load the images:
      _IN\ROMS\SNES\HomeBrew (Unl)_startup.jpg or _IN\ROMS\SNES\HomeBrew (Unl)_startup.png
 
 If (one of these) those images cannot be found, it falls back to default images from the \assets\artwork folder it'll
-try the extension folder first (gb, nes, smc etc.) if it cannot find them, it falls back to \assets\artwork\all\ folder
+try the extension folder first (gb, nes, smc etc.) if it cannot find them, it falls back to \assets\artwork\all folder
 
 Custom images will automatic resize and convert to 256 color PNG this are the files the PS Vita will accept, so no
 worries here you are free to choose jpg or png extension.
