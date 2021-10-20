@@ -1,3 +1,10 @@
+/----------------------------------\
+\       version: v0.8              /
+/ last updated : october 20th 2021 \
+\       revised: 1 time            /
+/----------------------------------\
+
+
 First of all, for this tool you need:
 
 -An homebrew accepted aka jailbroken PS Vita.
