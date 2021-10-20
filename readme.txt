@@ -73,14 +73,9 @@ done it yourself, I am willing to include it in the project and give you credits
 creating it, I spend enough time on this project already.
 
 TODO:
-- Add (7)zip support for packed ROMS for RetroArch to open, to save some space on the PS Vita, I also have to find out
-which cores support it (if not all and it's widely supported by RetroArch it self).
 
 - Hoping there will also be Amiga (uae4all2) support, there needs to be a starter for it in order to create this, I am
 willing to build support for it once the starter eboot is available and once the aue4all2 supports to open files from
 a parameter.
 
-- Backup/move the _OUT folder files to _OUT.BAK on the start of the program instead of simply deleting it's content.
-
-Any questions? Email me at jordy-at-polfliet[d-o-t]net (bot protection) I might or might not respond fully, it depends
-on the question and how many time I have at the moment.
+Any questions, or any bug(s) found? Email me at jordy-at-polfliet[d-o-t]net (bot protection) I try to respond ASAP.
