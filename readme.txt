@@ -12,12 +12,12 @@ First of all, for this tool you need:
 
 Features:
 
- - Create bubbles for the Vita for RetroArch and Daedalus X64
- - Possiblity to pack the ROM inside the VPK package, also with 7-ZIP support
- - Flexible and really easy system, easy to add more systems as long as Retroarch support it (edit settings.ini)
- - Fully automated processing of your ROMS 2 VPK
- - Possibility to make a custom bubble, background and startup emblem (not fully automated but easy to add them)
- - Made with passion and love <3
+o  Create bubbles for the Vita for RetroArch and Daedalus X64
+o  Possiblity to pack the ROM inside the VPK package, also with 7-ZIP support
+o  Flexible and really easy system, easy to add more systems as long as Retroarch support it (edit settings.ini)
+o  Fully automated processing of your ROM files 2 VPK
+o  Possibility to make a custom bubble, background and startup emblem (not fully automated but easy to add them)
+o  Made with passion and love <3
 
 The first fully automated RetroArch/Daedalus X64 2 PS Vita Bubble app (ROM2VPK), I made it as smooth as possible.
 
