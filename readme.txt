@@ -11,10 +11,19 @@ First of all, for this tool you need:
 -(if you want many ROMS but not N64) You need to have RetroArch for Vita https://www.retroarch.com/?page=platforms 
 -(if you want N64) Daedalus X64 v0.6 or later https://vitadb.rinnegatamante.it/#/info/549
 
+Features:
+
+ - Create bubbles for the Vita for RetroArch and Daedalus X64
+ - Possiblity to pack the ROM inside the VPK package, also with 7-ZIP support
+ - Flexible and really easy system, easy to add more systems as long as Retroarch support it (edit settings.ini)
+ - Fully automated processing of your ROMS 2 VPK
+ - Possibility to make a custom bubble, background and startup emblem (not fully automated but easy to add them)
+ - Made with passion and love <3
+
 The first fully automated RetroArch/Daedalus X64 2 PS Vita Bubble app (ROM2VPK), I made it as smooth as possible.
 
-At first I made it purely for my self, but there was pretty much time involving in making it, I decided to polish it
-some more and publish it for the public, I really hope you enjoy the project and the ease of it.
+At first I made it for my self, but there was pretty much time involving in making it, I decided to polish it some 
+more and publish it for the public, I really hope you enjoy the project and the ease of it.
 
 If your ROMS on your PS Vita are located at: ux0:ROMS/NES, ux0:ROMS/SNES, ux0:ROMS/GB+GBC and so on then make sure
 this have the same structure in _IN,  like  \_IN\ROMS\NES \_IN\ROMS\SNES \_IN\ROMS\GB+GBC
@@ -45,8 +54,8 @@ _IN\ROMS\SNES\HomeBrew (Unl).smc then it will try to load the images:
           _IN\ROMS\SNES\HomeBrew (Unl)_bg.jpg or _IN\ROMS\SNES\HomeBrew (Unl)_bg.png
      _IN\ROMS\SNES\HomeBrew (Unl)_startup.jpg or _IN\ROMS\SNES\HomeBrew (Unl)_startup.png
 
-If (one of these) those images cannot be found, it falls back to default images from the \assets\artwork folder it'll
-try the extension folder first (gb, nes, smc etc.) if it cannot find them, it falls back to \assets\artwork\all folder
+If the above images cannot be found, it falls back to default images from the \assets\artwork folder it'll try the 
+extension folder first (gb, nes, smc etc.) if it cannot find them, it falls back to \assets\artwork\all folder
 
 Custom images will automatic resize and convert to 256 color PNG this are the files the PS Vita will accept, so no
 worries here you are free to choose jpg or png extension.
@@ -54,7 +63,7 @@ worries here you are free to choose jpg or png extension.
 There are two methods of creating the VPK:
 
 Method 1: Link the VPK to your existing ROM already present on the VITA. Press 1 in the APP to use this method.
-Method 2: Pack the ROM inside of your VPK. Press 2 in the APP to use this method and read the important message below
+Method 2: Pack the ROM inside of your VPK. Press 2 or 3 in the APP to use this method and read the message below.
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<IMPORTANT>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
@@ -85,4 +94,4 @@ TODO:
 willing to build support for it once the starter eboot is available and once the aue4all2 supports to open files from
 a parameter.
 
-Any questions, or any bug(s) found? Email me at jordy-at-polfliet[d-o-t]net (bot protection) I try to respond ASAP.
+Any questions, or found any bugs? Please email me at jordy-at-polfliet[d-o-t]net (bot protection) I try to respond ASAP.
