@@ -4,4 +4,3 @@ v0.8
  - Now the content of the folder _OUT will be backed up to _OUT.bak folder instead of just being deleted
  - Did some folder checkings (of they exist/do not exists) before creating or deleting folders in order to avoid error messages
  - Code cleanup
-
