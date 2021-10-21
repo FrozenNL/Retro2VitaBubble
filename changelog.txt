@@ -2,5 +2,5 @@ v0.8
  - First changelog added to the project
  - Now supports 7-zipped roms for packed roms itself (.nes -> .7z), RetroArch does unpack 7z files (output only, input does not support zip except for NEOGEO)
  - Now the content of the folder _OUT will be backed up to _OUT.bak folder instead of just being deleted
- - Did some folder checkings (of they exist/do not exists) before creating or deleting folders in order to avoid error messages
+ - Did some folder checkings before creating or deleting folders in order to avoid error messages
  - Code cleanup
