@@ -8,7 +8,7 @@ First of all, for this tool you need:
 
 o  An homebrew accepted aka jailbroken PS Vita.
 o  If you want many ROMS but N64 you will need to have RetroArch for Vita https://www.retroarch.com/?page=platforms 
-o  If you want N64) Daedalus X64 v0.6 or later https://vitadb.rinnegatamante.it/#/info/549
+o  If you want N64 you will need to have Daedalus X64 v0.6 or later https://vitadb.rinnegatamante.it/#/info/549
 
 Features:
 
